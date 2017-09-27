@@ -1,6 +1,10 @@
 [Dd]ebug/
 [Rr]elease/
 .vs/
+twi_slave_chitrangna/
+twi_master_chitrangna/
+sagar-i2c-master/
+sagar-i2c-slave/
 #Build Results
 *.o
 *.d
